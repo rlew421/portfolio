@@ -58,7 +58,7 @@ export default class Highlights extends Component {
                         />
                       </div>
                       <div className="timeline-label">
-                        <h2>Brownfield of Dreams<span>Ruby on Rails</span></h2>
+                        <h2>Brownfield of Dreams <span>Ruby on Rails</span></h2>
                         <h4>Accomplishments</h4>
                         <ul>
                           <li>Implemented GitHub OmniAuth and utilized GitHub API to display a user's GitHub followers</li>
@@ -89,7 +89,7 @@ export default class Highlights extends Component {
                         />
                       </div>
                       <div className="timeline-label">
-                        <h2>Sweater Weather<span>Ruby on Rails</span></h2>
+                        <h2>Sweater Weather <span>Ruby on Rails</span></h2>
                         <h4>Accomplishments</h4>
                         <ul>
                           <li>Consumed multiple APIs that required manipulating data returned from one API and passing it into the call to another API</li>
